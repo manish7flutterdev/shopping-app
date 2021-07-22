@@ -1,6 +1,6 @@
 # shopping_app
 
-A new Flutter project.
+A shopping App made using GetX State Management
 
 ## Getting Started
 
